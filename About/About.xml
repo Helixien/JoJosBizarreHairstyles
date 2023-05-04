@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>JoJo's Bizarre Hairstyles</name>
+	<author>Helixien</author>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<modVersion>1.0-crusaders-rev1</modVersion>
+	<packageId>hlx.JoJosBizarreHairstyles</packageId>
+	<description>text.todo</description>
+	<url/>
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+	</loadAfter>
+</ModMetaData>

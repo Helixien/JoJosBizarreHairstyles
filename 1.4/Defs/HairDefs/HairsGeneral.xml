@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<HairDef Name="JoJo_BizarreHairMale_Base" Abstract="True">
+		<styleGender>Male</styleGender>
+		<category>JoJo_Bizarre</category>
+		<styleTags>
+			<li>Bizarre</li>
+			<li>Anime</li>
+		</styleTags>
+	</HairDef>
+	<!-- ==================== Bizarre ==================== -->
+	<HairDef ParentName="JoJo_BizarreHairMale_Base">
+		<defName>JoJo_JosephJoestar</defName>
+		<label>old joseph</label>
+		<texPath>Things/Pawn/Humanlike/Hairs/OldJoseph</texPath>
+		<styleTags>
+			<li>HairShort</li>
+		</styleTags>
+	</HairDef>
+	<HairDef ParentName="JoJo_BizarreHairMale_Base">
+		<defName>JoJo_JotaroKujo</defName>
+		<label>young jotaro</label>
+		<texPath>Things/Pawn/Humanlike/Hairs/Jotaro</texPath>
+		<styleTags>
+			<li>HairShort</li>
+		</styleTags>
+	</HairDef>
+	<HairDef ParentName="JoJo_BizarreHairMale_Base">
+		<defName>JoJo_JeanPierrePolnareff</defName>
+		<label>polnareff</label>
+		<texPath>Things/Pawn/Humanlike/Hairs/Polnareff</texPath>
+		<styleTags>
+			<li>HairLong</li>
+		</styleTags>
+	</HairDef>
+	<HairDef ParentName="JoJo_BizarreHairMale_Base">
+		<defName>JoJo_NoriakiKakyoin</defName>
+		<label>kakyoin</label>
+		<texPath>Things/Pawn/Humanlike/Hairs/Kakyoin</texPath>
+	</HairDef>
+	<HairDef ParentName="JoJo_BizarreHairMale_Base">
+		<defName>JoJo_MohammedAvdol</defName>
+		<label>avdol</label>
+		<texPath>Things/Pawn/Humanlike/Hairs/Avdol</texPath>
+	</HairDef>
+</Defs>
