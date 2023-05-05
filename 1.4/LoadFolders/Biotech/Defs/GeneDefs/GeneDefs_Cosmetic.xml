@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+<!--	<GeneDef ParentName="GeneHairStyleBase">
+		<defName>JoJo_Hair_BizarreOnly</defName>
+		<label>bizarre hair</label>
+		<labelShortAdj>bizarre</labelShortAdj>
+		<description>Carriers of this gene grow bizarre but extremely stylish hair on the head.</description>
+		<iconPath>UI/Icons/Genes/Gene_HairStyleBaldOnly</iconPath>
+		<displayOrderInCategory>59</displayOrderInCategory>
+		<hairTagFilter>
+			<whitelist>true</whitelist>
+			<tags>
+				<li>Bizarre</li>
+			</tags>
+		</hairTagFilter>
+	</GeneDef>-->
+</Defs>
