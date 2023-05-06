@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wxZLgcloxRdtVAWK7Zm0GURIQyMZO7VSPgBn7xZegvBoGBmIPKyGEupGF2Yknht0CvxBSLtKd1Klc1Fk2yAmCg==",
+  "success": true,
+  "projectFilePath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\JoJosBizarreHairstyles\\1.4\\LoadFolders\\Biotech\\Source\\Jojo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vova\\.nuget\\packages\\krafs.publicizer\\2.2.1\\krafs.publicizer.2.2.1.nupkg.sha512",
+    "C:\\Users\\Vova\\.nuget\\packages\\krafs.rimworld.ref\\1.4.3704\\krafs.rimworld.ref.1.4.3704.nupkg.sha512",
+    "C:\\Users\\Vova\\.nuget\\packages\\lib.harmony\\2.2.2\\lib.harmony.2.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}

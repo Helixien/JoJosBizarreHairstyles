@@ -5,7 +5,7 @@
 		<label>bizarre hair</label>
 		<labelShortAdj>bizarre</labelShortAdj>
 		<description>Carriers of this gene grow bizarre but extremely stylish hair on the head.</description>
-		<iconPath>UI/Icons/Genes/Gene_HairStyleBizarreOnlyA</iconPath>
+		<iconPath>UI/Icons/Genes/Gene_HairStyleBizarreOnly</iconPath>
 		<displayOrderInCategory>59</displayOrderInCategory>
 		<hairTagFilter>
 			<whitelist>true</whitelist>
